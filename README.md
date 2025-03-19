@@ -1,5 +1,5 @@
 # ExpenseTracker
-Expense Tracker Website
+Expense Tracker Website.
 
 Overview
 
