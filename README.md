@@ -1,4 +1,4 @@
-# ExpenseTracker
+# SpendShield
 Expense Tracker Website.
 
 Overview
